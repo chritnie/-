@@ -45,7 +45,7 @@
 8. Сервер должен вести логи в следующем формате: Дата запроса. IP-адрес клиента, имя запрошенного файла, код ошибки.
 В файле log.txt в корне сервера
 
-![image](https://user-images.githubusercontent.com/70681104/146681077-491550ef-21d8-4549-b522-90b9b7299490.png)
+![Screenshot_1](https://user-images.githubusercontent.com/90050887/146982263-3d174622-6403-414e-ac45-620a3ff4d82b.png)
 
 10. Добавьте возможность запрашивать только определенные типы файлов (.html, .css, .js и так далее). При запросе неразрешенного типа, верните ошибку 403.
 
@@ -55,6 +55,9 @@
 
 ![image](https://user-images.githubusercontent.com/58771506/143503905-045a6d92-9a3a-4d78-aa7e-2a8c96c097af.png)
 
-14. Реализуйте поддержку бинарных типов данных, в частночти, картинок.
+14. Реализуйте поддержку бинарных типов данных, в частности, картинок.
+
+![143503946-dfe81205-07c6-4584-aa4c-b69f3bc2957a](https://user-images.githubusercontent.com/90050887/146983958-fd33f4fc-d7ad-4ebe-b5c6-57b57931941c.png)
+![Screenshot_2](https://user-images.githubusercontent.com/90050887/146984322-cd19d11d-f602-429c-8eea-15dee6656fef.png)
 
 <!-- Docs to Markdown version 1.0β17 -->
